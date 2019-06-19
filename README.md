@@ -1,10 +1,10 @@
 # TwitterAPIUseCase
 1个TwitterAPI的使用范例，获取数据并插入数据库
 
-### 说明
+### 依赖
 
-- 使用twitter4j 4.04 jar包
-- 使用mysql-connector-java5.1.44
+- twitter4j 4.04 jar
+- mysql-connector-java5.1.44 jar
 
 ### 使用
 
